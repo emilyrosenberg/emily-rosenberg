@@ -55,6 +55,7 @@ header a {
 }
 
 /* Navbar styles with dropdown toggle */
+/* Credit: Love Running Walkthrough Project */
 nav {
     position: absolute;
     background-color: #4c956c;
@@ -66,6 +67,7 @@ nav {
     top: 100%;
 }
 /* Nav toggle */
+/* Credit: Love Running Walkthrough Project */
 #nav-toggle:checked~nav {
     display: block;
 }
