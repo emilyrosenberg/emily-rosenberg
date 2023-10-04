@@ -1,7 +1,5 @@
 /* Google fonts import */
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
-</style>
+<style>@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');</style>
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -51,6 +49,11 @@ header a {
     margin-bottom: 1em;
     color: #fefee3;
 }
+
+.active {
+    border-bottom: 2px solid;
+}
+
 Navbar styles with dropdown toggle */
 nav {
     position: absolute;
