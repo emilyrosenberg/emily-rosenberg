@@ -37,7 +37,7 @@ header {
     align-items: baseline;
 }
 
-/* Hamburger toggle */
+/* Burger toggle */
 .fa-bars {
     color: #fefee3;
 }
@@ -94,7 +94,7 @@ main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     /* Add margin at the top to prevent content from being covered by the header */
-    /* margin-top: 47px; */
+    margin-top: 49px;
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
