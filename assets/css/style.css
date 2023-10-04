@@ -18,8 +18,8 @@ body {
 
 h1 {
     font-family: 'Nunito', sans-serif;
-    font-weight: 200;
-    font-size: 150%;
+    font-weight: 600;
+    font-size: 160%;
     color: #fefee3;
 }
 
@@ -27,7 +27,7 @@ h1 {
 
 header {
     background-color: #2c6e49;
-    padding: 0.5rem 1rem;
+    padding: 1rem 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -50,6 +50,7 @@ header a {
 
 #menu {
     list-style-type: none;
+    margin-top: 8px;
 }
 
 #menu > li {
