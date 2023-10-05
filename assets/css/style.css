@@ -106,7 +106,7 @@ main {
 #hero {
     height: 85vh;
     width: 100%;
-    background-image: url("/assets/images/hero-background.jpg") no-repeat right center / cover;
+    background-image: url("../assets/images/hero-background.jpg") no-repeat right center / cover;
     position: relative;
 }
 
