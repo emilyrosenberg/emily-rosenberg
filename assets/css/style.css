@@ -150,7 +150,7 @@ main {
     place-items: center;
 }
 
-#about-image > img {
+#about-image img {
     background: url(assets/images/profile.jpeg) no-repeat top center / cover;
     height: 50vw;
     width: 50vw;
@@ -292,26 +292,13 @@ footer {
     }
 
     /* About page */
-    #about {
+    section {
         display: flex;
-        /* width: 100vw; */
-        
-    }
-    .about-text {
-        display: flex;
-        flex-direction: column;
     }
 
-    #first-half, #second-half {
-        width: 50%;
-        justify-content: space-between;
+    #about-image img {
+        margin: 40px;
     }
-
-    #second-half {
-        margin-top: 60px;
-        text-align: right;
-    } 
-}
 
 /* Media query: laptops and larger (992px and up) */
 @media screen and (min-width:992px) {
