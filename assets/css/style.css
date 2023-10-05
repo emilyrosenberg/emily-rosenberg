@@ -163,7 +163,8 @@ main {
 
 /* Contact page */
 #contact-form {
-    margin: 20px;  
+    margin: 20px;
+    max-width: 400px; 
 }
 
 #contact-form h2 {
@@ -299,8 +300,6 @@ footer {
     #about-image img {
         margin: 40px;
     }
-
-    /* Contact page */
 
 /* Media query: laptops and larger (992px and up) */
 @media screen and (min-width:992px) {
