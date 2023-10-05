@@ -145,6 +145,32 @@ main {
 
 /* Contact page */
 
+#contact-form {
+    margin: 20px;
+    
+}
+
+#contact-form > h2 {
+    /* margin: 20px; */
+    padding-bottom: 20px;
+    color: #faa5c2;
+}
+
+.text-input {
+    color: #494244;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #faa5c2;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+#message {
+    height: 100px;
+}
+
+
 /* Footer */
 footer {
     background-color: #494244;
