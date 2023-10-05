@@ -122,7 +122,6 @@ main {
 }
 
 /* About page */
-
 #about-heading {
     margin: 20px;
     color: #faa5c2;
@@ -131,6 +130,17 @@ main {
 #about-text > div {
     margin: 20px;
     color: #494244;
+}
+
+#about-image > img {
+    background: url(assets/images/profile.jpeg) no-repeat top center / cover;
+    height: 60vw;
+    width: 60vw;
+    margin: 20px;
+    /* Makes the square into a circle */
+    border-radius: 50%;
+    max-width: 200px;
+    max-height: 200px;
 }
 
 /* Footer */
