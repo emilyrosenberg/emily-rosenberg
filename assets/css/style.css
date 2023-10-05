@@ -123,6 +123,15 @@ main {
 
 /* About page */
 
+#about-heading {
+    margin: 20px;
+    color: #faa5c2;
+}
+
+#about-text > div {
+    margin: 20px;
+    color: #494244;
+}
 
 /* Footer */
 
