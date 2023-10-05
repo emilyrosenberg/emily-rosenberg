@@ -292,13 +292,15 @@ footer {
     }
 
     /* About page */
-    section {
+    #about {
         display: flex;
     }
 
     #about-image img {
         margin: 40px;
     }
+
+    /* Contact page */
 
 /* Media query: laptops and larger (992px and up) */
 @media screen and (min-width:992px) {
