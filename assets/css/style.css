@@ -181,10 +181,6 @@ main {
     color: #494244;
 }
 
-/* #contact-form > button {
-    color: #494244;
-} */
-
 .text-input {
     color: #494244;
     width: 100%;
@@ -196,9 +192,17 @@ main {
 }
 
 #message {
-    height: 100px;
+    height: 15vh;
 }
 
+.send-button {
+    background-color: #fbb1ca;
+    color: #494244;
+    padding: 2px 10px;
+    font-family: 'Nunito', sans-serif;
+    border: 1px solid #494244;
+    box-shadow: 0 2px 2px #494244;
+}
 
 /* Footer */
 footer {
