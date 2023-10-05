@@ -147,8 +147,7 @@ main {
 /* Contact page */
 
 #contact-form {
-    margin: 20px;
-    
+    margin: 20px;  
 }
 
 #contact-form > h2 {
@@ -156,6 +155,29 @@ main {
     padding-bottom: 20px;
     color: #faa5c2;
 }
+
+#contact-links {
+    color: #494244;
+    padding: 10px 0;
+}
+
+#contact-links > a {
+    display: block;
+    text-decoration: none;
+    color: #faa5c2;
+}
+
+#message-heading {
+    padding: 15px 0;
+}
+
+#contact-form > label {
+    color: #494244;
+}
+
+/* #contact-form > button {
+    color: #494244;
+} */
 
 .text-input {
     color: #494244;
