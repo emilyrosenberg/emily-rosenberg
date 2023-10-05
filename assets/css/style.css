@@ -142,10 +142,6 @@ main {
     color: #f21860;
 }
 
-#about a:hover {
-    border-bottom: 1px solid #f21860
-    }
-
 #about-image {
     /* Suggestion from freeCodeCamp */
     display: grid;
@@ -170,7 +166,6 @@ main {
 }
 
 #contact-form h2 {
-    /* margin: 20px; */
     padding-bottom: 20px;
     color: #f21860;
 }
@@ -190,10 +185,6 @@ main {
     color: #f21860;
 }
 
-#contact-links a:hover {
-    border-bottom: 1px solid #f21860
-    }
-
 #message-heading {
     padding: 15px 0;
 }
@@ -210,6 +201,10 @@ main {
     border: 1px solid #fbb1ca;
     border-radius: 5px;
     padding: 0 5px;
+}
+
+input {
+    outline: none;
 }
 
 #message {
@@ -305,5 +300,15 @@ footer {
     #menu a:hover {
     border-bottom: 1px solid #fff6f9
     }
+
+    /* About page */
+    #about a:hover {
+        border-bottom: 1px solid #f21860
+        }
+
+    /* Contact page */
+    #contact-links a:hover {
+        border-bottom: 1px solid #f21860
+        }
 }
 /* Media query: large screens (1200px and up) */
