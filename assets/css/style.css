@@ -204,7 +204,7 @@ main {
     height: 25px;
     margin: 5px 0 20px 0;
     border: 1px solid #fbb1ca;
-    border-radius: 2px;
+    border-radius: 5px;
     padding: 0 5px;
 }
 
@@ -218,9 +218,8 @@ main {
     padding: 2px 15px;
     font-family: 'Nunito', sans-serif;
     font-size: 100%;
-    /* font-weight: 700; */
-    /* letter-spacing: 1px; */
     border: none;
+    border-radius: 5px;
     box-shadow: 0 2px 2px #494244;
 }
 
