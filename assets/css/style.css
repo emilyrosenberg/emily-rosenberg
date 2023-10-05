@@ -94,8 +94,9 @@ main {
     background-color: #fff6f9;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    /* Add margin at the top to prevent content from being covered by the header */
+    /* Add margin at the top and bottom to prevent content from being covered by the header and footer */
     margin-top: 69px;
+    margin-bottom: 67px;
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
@@ -103,7 +104,7 @@ main {
 
 /* Hero section */
 #hero {
-    height: 100vh;
+    height: 85vh;
     width: 100%;
     background: url("/assets/images/hero-background.jpg") no-repeat right center / cover;
     position: relative;
