@@ -222,10 +222,6 @@ input {
     box-shadow: 0 2px 2px #494244;
 }
 
-.send-button:hover {
-    background-color: #494244;
-}
-
 /* Footer */
 footer {
  /* Fixed to bottom of screen with suggestion from freeCodeCamp */
@@ -308,6 +304,10 @@ footer {
     /* Contact page */
     #contact-links a:hover {
         border-bottom: 1px solid #f21860
+        }
+
+    .send-button:hover {
+        background-color: #494244;
         }
 }
 /* Media query: large screens (1200px and up) */
