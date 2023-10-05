@@ -24,7 +24,6 @@ h1 {
 }
 
 /* Header */
-
 header {
     background-color: #494244;
     padding: 1rem 1rem;
@@ -145,7 +144,7 @@ main {
 }
 
 #about-image {
-    /* Suggestion from freeCodeCamp */
+/* Suggestion from freeCodeCamp */
     display: grid;
     place-items: center;
 }
@@ -174,6 +173,7 @@ main {
 
 #contact-form h3 {
     color: #494244;
+    padding: 10px 0;
 }
 
 #contact-links {
@@ -186,6 +186,7 @@ main {
     text-decoration: none;
     color: #f21860;
     width: fit-content;
+    padding: 3px 0;
 }
 
 #message-heading {
@@ -248,8 +249,6 @@ footer {
     padding: 5%;
     color: #fff6f9;
 }
-
-/* Media query: large or landscape phones (576px and up) */
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width:768px) {
@@ -321,4 +320,3 @@ footer {
         background-color: #494244;
         }
 }
-/* Media query: large screens (1200px and up) */
