@@ -292,25 +292,25 @@ footer {
     }
 
     /* About page */
+    #about {
+        display: flex;
+        /* width: 100vw; */
+        
+    }
     .about-text {
         display: flex;
         flex-direction: column;
-        width: 100%;
-    }
-    #first-half, #second-half {
-        display: flex;
-        flex-direction: column;
-        width: 100%;
     }
 
-    #first-half {
-        max-width: 40%;
+    #first-half, #second-half {
+        width: 50%;
+        justify-content: space-between;
     }
-     
+
     #second-half {
-        text-align: end;
-        align-self: flex-end;
-    }
+        margin-top: 60px;
+        text-align: right;
+    } 
 }
 
 /* Media query: laptops and larger (992px and up) */
@@ -321,8 +321,8 @@ footer {
 
     /* About page */
     #about a:hover {
-        border-bottom: 1px solid #f21860
-        }
+        border-bottom: 1px solid #f21860;
+    }
 
     /* Contact page */
     #contact-links a:hover {
