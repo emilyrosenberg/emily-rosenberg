@@ -290,6 +290,27 @@ footer {
         padding-top: 5vh;
         padding-left: 50px;
     }
+
+    /* About page */
+    .about-text {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    #first-half, #second-half {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    #first-half {
+        max-width: 40%;
+    }
+     
+    #second-half {
+        text-align: end;
+        align-self: flex-end;
+    }
 }
 
 /* Media query: laptops and larger (992px and up) */
