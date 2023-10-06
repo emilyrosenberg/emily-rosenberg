@@ -48,6 +48,15 @@ The navigation bar is visible in the header fixed to the top of each page. It is
 <br>
 Navigation scheme: There are 3 menu items: Home, About, and Contact.
 
+### Home page
+The landing page has a colorful image and large text, to invite potential employers to learn more.
+
+### About page
+The about page includes professional experience, fun facts, a link to my CV, and a profile image. It can be updated with additional qualifications in the future.
+
+### Contact page
+The contact page has a simple form for entering contact information and sending a message.
+
 ### Footer
 The footer appears on all pages. It has links to LinkedIn, Github, and the Contact page.
 
@@ -59,7 +68,7 @@ I used…
 ### Compatibility testing
 The website was tested in Chrome developer tools and the following devices:
 <br>
-iPhone 12 Mini
+iPhone 12 Mini <br>
 Macbook Air
 
 ### User stories testing
