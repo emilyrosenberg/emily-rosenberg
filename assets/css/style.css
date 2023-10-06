@@ -95,8 +95,8 @@ main {
     margin-top: 69px;
     margin-bottom: 67px;
     /* Enable flex properties for child elements */
-    /* display: flex;
-    flex-direction: column; */
+    display: flex;
+    flex-direction: column;
  }
 
 /* Hero section */
@@ -121,6 +121,12 @@ main {
 }
 
 /* About page */
+
+#about {
+    text-align: center;
+    display: inline-block;
+}
+
 #about h2 {
     margin: 30px 20px 20px;
     color: #f21860;
@@ -146,13 +152,13 @@ main {
 /* Suggestion from freeCodeCamp */
     display: grid;
     place-items: center;
-}
+} 
 
 #about-image img {
     background: url(../images/profile.jpeg) no-repeat top center / cover;
     height: 50vw;
     width: 50vw;
-    margin: 20px;
+    margin: 40px;
     /* Makes the square into a circle */
     border-radius: 50%;
     max-width: 200px;
@@ -161,9 +167,15 @@ main {
 
 /* For this contact form, I used code from the Love Running Walkthrough Project */
 /* Contact page */
+
+#contact {
+    text-align: center;
+}
+
 #contact-form {
     margin: 20px;
     max-width: 400px; 
+    display: inline-block;
 }
 
 #contact-form h2 {
@@ -182,11 +194,11 @@ main {
 }
 
 #contact-links > a {
-    display: block;
+    /* display: block; */
     text-decoration: none;
     color: #f21860;
     width: fit-content;
-    margin: 5px 0;
+    margin: 5px 15px;
 }
 
 #message-heading {
@@ -293,16 +305,17 @@ footer {
 
     /* About page */
     #about {
-        display: flex;
+        /* display: flex; */
+        display: inline-block;
     }
 
     #about h2 {
         font-size: 200%;
     }
 
-    #about-image img {
+    /* #about-image img {
         margin: 40px;
-    }
+    } */
 
     /* Contact page */
     #contact-form h2 {
