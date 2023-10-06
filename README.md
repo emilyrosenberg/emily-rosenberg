@@ -34,12 +34,14 @@ I developed a color palette using Coolors. I started out with a softer palette b
 
 Fonts <br>
 I used Google Fonts and chose a rounded, modern sans serif font that is easy to read. <br>
-![Nunito font from Google Fonts](assets/images/nunito-font.png) <br>
+![Nunito font from Google Fonts](assets/images/nunito-font.png)<br>
 [Google Fonts](https://fonts.google.com/specimen/Nunito?stroke=Sans+Serif&sort=popularity)
 
 Images <br>
-I used Unsplash to find and download the main background image. The colorful pencils are playful, and represent a toolbox of options and a tactile approach. <br>
-![Background image of colored pencils](assets/images/hero-background.jpg)
+I used Unsplash to find and download the main background image. The colorful pencils are playful, and represent a toolbox of options and a tactile approach. Credit: Jess Bailey.<br>
+![Background image of colored pencils.](assets/images/hero-background.jpg) <br>
+Profile image credit: Olivia Woodrow
+
 ## Features
 The website has 3 pages, all accessible from the navigation bar. Home is an intro page, About has a few facts about me and my experience and a link to my CV, and Contact has a form to send a message.
 
@@ -52,10 +54,10 @@ Navigation scheme: There are 3 menu items: Home, About, and Contact.
 The landing page has a colorful image and large text, to invite potential employers to learn more.
 
 ### About page
-The about page includes professional experience, fun facts, a link to my CV, and a profile image. It can be updated with additional qualifications in the future.
+The about page includes professional experience including my future graduation date from Code Institute, a few fun facts, and a profile image. It can be updated with additional qualifications in the future.
 
 ### Contact page
-The contact page has a simple form for entering contact information and sending a message.
+The contact page has links to my LinkedIn and Github plus a simple form for entering contact information and sending a message.
 
 ### Footer
 The footer appears on all pages. It has links to LinkedIn, Github, and the Contact page.
@@ -63,6 +65,19 @@ The footer appears on all pages. It has links to LinkedIn, Github, and the Conta
 ### Favicon
 I used a pencil emoji as a favicon, building a connection to my landing page background image. <br>
 [Pencil emoji favicon](https://favicon.io/emoji-favicons/pencil)
+
+### Future implementations
+Portfolio gallery <br>
+Project links
+
+### Technologies used:
+HTML 5 as a structure language <br>
+CSS as a style language <br>
+Font Awesome <br>
+Google Fonts <br>
+GitHub <br>
+Git <br>
+Gitpod <br>
 
 ## Testing
 
@@ -76,8 +91,14 @@ iPhone 12 Mini <br>
 Macbook Air
 
 ### User stories testing
-[Goal
-How it’s accomplished]
+As a job-seeking junior web developer:
+- _I would like to show potential employers my qualifications._ The About page shows my career path.
+- _I would like to show what’s special about me as a team member._ The branding is friendly and approachable.
+- _I would like to be contacted by potential employers._ The Contact page has a simple and easy contact form, reachable form everywhere on the website.
+
+As an employer:
+- _I would like to find out about a potential employee’s qualifications._ The About page shows my career path including when I will graduate from the Code Institute course.
+- _I would like to have a sense of how they would fit into my team._ The headings and the About page are intentionally informal and friendly, and my interpersonal skills are included.
 
 ## Issues found during development
 
@@ -90,6 +111,13 @@ How it’s accomplished]
 
 ## Deployment
 I deployed by doing xyz <br>
-I tested the deployed version in Chrome and Safari.
+I tested the deployed website in Chrome and Safari. The live link can be found [here](https://emilyrosenberg.github.io/emily-rosenberg/index.html).
+
 
 ## Credits
+- I used code from the Love Running Walkthrough Project extensively to outline this project. As the project progressed, - I was able to replace much of the original code with my own code. The structure and styling of several parts, including the navigation bar and the contact form, remain very close or identical to code from the walkthrough project. <br>
+- I was able to solve problems with help from Stack Overflow, FreeCodeCamp, and MakeUseOf. <br>
+- I would like to thank my Code Institute mentor, Adegbenga Adeye, for reassurance, support, and extra resources. <br>
+- Thanks to my Cohort Facilitator, David Calikes, for advice about how to create an MVP on the "fast track." <br>
+- And I'm also thankful to my teachers at the Digital Career Institute, who patiently guided me through the basics for the first time.
+
