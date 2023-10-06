@@ -296,9 +296,19 @@ footer {
         display: flex;
     }
 
+    #about h2 {
+        font-size: 200%;
+    }
+
     #about-image img {
         margin: 40px;
     }
+
+    /* Contact page */
+    #contact-form h2 {
+        font-size: 200%;
+    }
+}
 
 /* Media query: laptops and larger (992px and up) */
 @media screen and (min-width:992px) {
