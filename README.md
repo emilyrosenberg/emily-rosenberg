@@ -1,39 +1,74 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Emily Rosenberg
 
-Welcome,
+## UX
+### Website owner goals
+The purpose of this website is to present myself to potential employers as a junior web developer. It will showcase skills, past achievements, and my career path, and provide an easy way to contact me. It can be updated with new information as necessary.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+### User goals
+New user goals:
+- User is able to find information about my past experience and skills.
+- User is able to contact me easily using a contact form.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+Returning user goals:
+- User is able to find out about my recent projects and qualifications.
 
-## Codeanywhere Reminders
+### User stories
+As a job-seeking junior web developer:
+- I would like to show potential employers my qualifications.
+- I would like to show what’s special about me as a team member.
+- I would like to be contacted by potential employers.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+As an employer:
+- I would like to find out about a potential employee’s qualifications.
+- I would like to have a sense of how they would fit into my team.
 
-`python3 -m http.server`
+### Structure of the website
+This website is designed to provide necessary information quickly and clearly on all types of devices. The user will be able to accomplish their goals with a satisfying user experience.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Surface
+Colors <br>
+I developed a color palette using Coolors. I started out with a softer palette but then the background image I found inspired the choice of hot pink. The strong, eye-catching color, grounded by soft dark brown, is a good representation of my personal brand. <br>
+https://coolors.co/494244-fff6f9-fbb1ca-f21860
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+Fonts <br>
+I used Google Fonts and chose a rounded, modern sans serif font that is easy to read. <br>
+https://fonts.google.com/specimen/Nunito?stroke=Sans+Serif&sort=popularity
 
-`http_server`
+Images
+I used Unsplash to find and download the main background image. The colorful pencils are playful, and represent a toolbox of options and a tactile approach.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Features
+The website has 3 pages, all accessible from the navigation bar. Home is an intro page, About has a few facts about me and my experience and a link to my CV, and Contact has a form to send a message.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Navigation bar
+The navigation bar is visible in the header fixed to the top of each page. It is responsive and on mobile it shows as a toggle with a dropdown menu; on desktop the menu items are in the header.
+<br>
+Navigation scheme: There are 3 menu items: Home, About, and Contact.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Footer
+The footer appears on all pages. It has links to LinkedIn, Github, and the Contact page.
 
-To log into the Heroku toolbelt CLI:
+## Testing
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Functionality testing
+I used…
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### Compatibility testing
+The website was tested in Chrome developer tools and the following devices:
+<br>
+iPhone 12 Mini
+Macbook Air
 
----
+### User stories testing
+[Goal
+How it’s accomplished]
 
-Happy coding!
+## Issues found during development
+
+### Performance testing
+
+### Code validation
+
+## Deployment
+
+## Credits
