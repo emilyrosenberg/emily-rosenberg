@@ -80,9 +80,9 @@ How it’s accomplished]
 ### Performance testing
 
 ### Code validation
-- HTML <br> I validated the html code with W3C and found 2 errors in the meta description. It was an oversight or typo, and easily fixed.
+- HTML <br> I validated the HTML code with W3C and found 2 errors in the meta description. It was an oversight or typo, and easily fixed.
 
-- CSS <br>
+- CSS <br> I validated the CSS code with (Jigsaw) validator and found 1 error in the margin of the name styles in the header. I decided that this style wasn't working anyway, and deleted the line.
 
 ## Deployment
 
