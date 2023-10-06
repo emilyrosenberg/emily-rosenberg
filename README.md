@@ -60,6 +60,10 @@ The contact page has a simple form for entering contact information and sending 
 ### Footer
 The footer appears on all pages. It has links to LinkedIn, Github, and the Contact page.
 
+### Favicon
+I used a pencil emoji as a favicon, building a connection to my landing page background image. <br>
+https://favicon.io/emoji-favicons/pencil
+
 ## Testing
 
 ### Functionality testing
@@ -85,5 +89,7 @@ How it’s accomplished]
 - CSS <br> I validated the CSS code with (Jigsaw) validator and found 1 error in the margin of the name styles in the header. I decided that this style wasn't working anyway, and deleted the line.
 
 ## Deployment
+I deployed by doing xyz <br>
+I tested the deployed version in Chrome and Safari.
 
 ## Credits
