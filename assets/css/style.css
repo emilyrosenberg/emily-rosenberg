@@ -41,7 +41,6 @@ header {
     color: #fff6f9;
 }
 
-
 header a {
     text-decoration: none;
     color: inherit;
@@ -61,8 +60,8 @@ header a {
     border-bottom: 1px solid #fff6f9;
 }
 
-/* Navbar styles with dropdown toggle */
-/* Credit: Love Running Walkthrough Project */
+/* Nav bar styles with dropdown toggle */
+/* For this Nav bar and toggle, I used code from the Love Running Walkthrough Project */
 nav {
     position: absolute;
     background-color: #494244;
@@ -73,8 +72,8 @@ nav {
     display: none;
     top: 100%;
 }
+
 /* Nav toggle */
-/* Credit: Love Running Walkthrough Project */
 #nav-toggle:checked~nav {
     display: block;
 }
@@ -97,8 +96,8 @@ main {
     margin-top: 69px;
     margin-bottom: 67px;
     /* Enable flex properties for child elements */
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
  }
 
 /* Hero section */
@@ -223,6 +222,7 @@ input {
     font-size: 100%;
     border: none;
     border-radius: 5px;
+    /* Suggestion from MakeUseOf */
     box-shadow: 2px 2px 2px #494244;
 }
 
