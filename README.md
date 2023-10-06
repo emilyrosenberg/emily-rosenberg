@@ -28,15 +28,18 @@ This website is designed to provide necessary information quickly and clearly on
 ### Surface
 Colors <br>
 I developed a color palette using Coolors. I started out with a softer palette but then the background image I found inspired the choice of hot pink. The strong, eye-catching color, grounded by soft dark brown, is a good representation of my personal brand. <br>
+![Color palette with dark brown, light pink, and hot pink](assets/images/color-palette.png)
 https://coolors.co/494244-fff6f9-fbb1ca-f21860
 
 Fonts <br>
 I used Google Fonts and chose a rounded, modern sans serif font that is easy to read. <br>
+![Nunito font from Google Fonts](assets/images/nunito-font.png)
+<br>
 https://fonts.google.com/specimen/Nunito?stroke=Sans+Serif&sort=popularity
 
-Images
-I used Unsplash to find and download the main background image. The colorful pencils are playful, and represent a toolbox of options and a tactile approach.
-
+Images <br>
+I used Unsplash to find and download the main background image. The colorful pencils are playful, and represent a toolbox of options and a tactile approach. <br>
+![Background image of colored pencils](assets/images/hero-background.jpg)
 ## Features
 The website has 3 pages, all accessible from the navigation bar. Home is an intro page, About has a few facts about me and my experience and a link to my CV, and Contact has a form to send a message.
 
