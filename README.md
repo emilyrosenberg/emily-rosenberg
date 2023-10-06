@@ -80,6 +80,9 @@ How it’s accomplished]
 ### Performance testing
 
 ### Code validation
+- HTML <br> I validated the html code with W3C and found 2 errors in the meta description. It was an oversight or typo, and easily fixed.
+
+- CSS <br>
 
 ## Deployment
 
