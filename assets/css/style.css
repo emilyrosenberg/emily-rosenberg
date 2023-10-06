@@ -121,7 +121,6 @@ main {
 }
 
 /* About page */
-
 #about {
     text-align: center;
     display: inline-block;
@@ -150,15 +149,15 @@ main {
 
 #about-image {
 /* Suggestion from freeCodeCamp */
-    display: grid;
-    place-items: center;
+    /* display: grid;
+    place-items: center; */
 } 
 
 #about-image img {
     background: url(../images/profile.jpeg) no-repeat top center / cover;
     height: 50vw;
     width: 50vw;
-    margin: 40px;
+    margin: 40px 40px 0;
     /* Makes the square into a circle */
     border-radius: 50%;
     max-width: 200px;
