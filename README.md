@@ -1,4 +1,5 @@
-# Emily Rosenberg
+# ✏️ Emily Rosenberg
+A career website to share with potential employers
 
 ## UX
 ### Website owner goals
@@ -28,14 +29,13 @@ This website is designed to provide necessary information quickly and clearly on
 ### Surface
 Colors <br>
 I developed a color palette using Coolors. I started out with a softer palette but then the background image I found inspired the choice of hot pink. The strong, eye-catching color, grounded by soft dark brown, is a good representation of my personal brand. <br>
-![Color palette with dark brown, light pink, and hot pink](assets/images/color-palette.png)
-https://coolors.co/494244-fff6f9-fbb1ca-f21860
+![Color palette with dark brown, light pink, and hot pink](assets/images/color-palette.png) <br>
+[Coolors](https://coolors.co/494244-fff6f9-fbb1ca-f21860)
 
 Fonts <br>
 I used Google Fonts and chose a rounded, modern sans serif font that is easy to read. <br>
-![Nunito font from Google Fonts](assets/images/nunito-font.png)
-<br>
-https://fonts.google.com/specimen/Nunito?stroke=Sans+Serif&sort=popularity
+![Nunito font from Google Fonts](assets/images/nunito-font.png) <br>
+[Google Fonts](https://fonts.google.com/specimen/Nunito?stroke=Sans+Serif&sort=popularity)
 
 Images <br>
 I used Unsplash to find and download the main background image. The colorful pencils are playful, and represent a toolbox of options and a tactile approach. <br>
@@ -62,7 +62,7 @@ The footer appears on all pages. It has links to LinkedIn, Github, and the Conta
 
 ### Favicon
 I used a pencil emoji as a favicon, building a connection to my landing page background image. <br>
-https://favicon.io/emoji-favicons/pencil
+[Pencil emoji favicon](https://favicon.io/emoji-favicons/pencil)
 
 ## Testing
 
