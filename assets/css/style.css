@@ -147,6 +147,10 @@ main {
     color: #f21860;
 }
 
+#about span {
+    font-style: italic;
+}
+
 #about-image {
 /* Suggestion from freeCodeCamp */
     /* display: grid;
