@@ -105,6 +105,7 @@ main {
     width: 100%;
     background: url("../images/hero-background.jpg") no-repeat right center / cover;
     position: relative;
+
 }
 
 #cover-text {
@@ -286,7 +287,7 @@ footer {
 
     /* Hero section */
     #cover-text {
-        font-size: 250%;
+        font-size: 220%;
         padding-top: 5vh;
         padding-left: 50px;
     }
