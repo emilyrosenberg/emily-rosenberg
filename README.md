@@ -19,7 +19,7 @@ As a job-seeking junior web developer:
 - I would like to show what’s special about me as a team member.
 - I would like to be contacted by potential employers.
 
-As an employer:
+As a potential future employer:
 - I would like to find out about a potential employee’s qualifications.
 - I would like to have a sense of how they would fit into my team.
 
@@ -92,32 +92,38 @@ Macbook Air
 
 ### User stories testing
 As a job-seeking junior web developer:
-- _I would like to show potential employers my qualifications._ The About page shows my career path.
-- _I would like to show what’s special about me as a team member._ The branding is friendly and approachable.
-- _I would like to be contacted by potential employers._ The Contact page has a simple and easy contact form, reachable form everywhere on the website.
+- _I would like to show potential employers my qualifications._ <br>
+The About page shows my career path.
+- _I would like to show what’s special about me as a team member._ <br>
+The website's branding is direct and bold yet friendly and approachable.
+- _I would like to be contacted by potential employers._ <br>
+The Contact page has a simple and easy contact form, reachable from everywhere on the website.
 
-As an employer:
-- _I would like to find out about a potential employee’s qualifications._ The About page shows my career path including when I will graduate from the Code Institute course.
-- _I would like to have a sense of how they would fit into my team._ The headings and the About page are intentionally informal and friendly, and my interpersonal skills are included.
+As a potential future employer:
+- _I would like to find out about a potential employee’s qualifications._ <br>
+The About page shows my career path including the date I will graduate from the Code Institute course.
+- _I would like to have a sense of how they would fit into my team._ <br>
+The headings and the About page are intentionally informal and friendly, and my interpersonal skills are included.
 
 ## Issues found during development
 
 ### Performance testing
+I used Chrome Developer Tools for troubleshooting functionality and style problems during development. After deploying, some issues were still unresolved. Trial and error, Googling - and patience! - were most helpful. This is how I learned the most. <br>
+I used the Lighthouse tool to test performance. ![Lighthosue report](assets/images/lighthouse-test.png)
 
 ### Code validation
-- HTML <br> I validated the HTML code with W3C and found 2 errors in the meta description. It was an oversight or typo, and easily fixed.
+- HTML <br> I validated the HTML code with W3C and found 2 errors in the meta description. The typos were easily corrected.
 
 - CSS <br> I validated the CSS code with (Jigsaw) validator and found 1 error in the margin of the name styles in the header. I decided that this style wasn't working anyway, and deleted the line.
 
 ## Deployment
-I deployed by doing xyz <br>
+This website was deployed to GitHub pages <br>
 I tested the deployed website in Chrome and Safari. The live link can be found [here](https://emilyrosenberg.github.io/emily-rosenberg/index.html).
 
 
 ## Credits
-- I used code from the Love Running Walkthrough Project extensively to outline this project. As the project progressed, - I was able to replace much of the original code with my own code. The structure and styling of several parts, including the navigation bar and the contact form, remain very close or identical to code from the walkthrough project. <br>
+- I used code from the Love Running Walkthrough Project extensively to outline this project. As the project progressed, I was able to replace much of the original code with my own code. The structure and styling of several areas, including the navigation bar and the contact form, remain very close or identical to code from the walkthrough project. <br>
 - I was able to solve problems with help from Stack Overflow, FreeCodeCamp, and MakeUseOf. <br>
 - I would like to thank my Code Institute mentor, Adegbenga Adeye, for reassurance, support, and extra resources. <br>
 - Thanks to my Cohort Facilitator, David Calikes, for advice about how to create an MVP on the "fast track." <br>
-- And I'm also thankful to my teachers at the Digital Career Institute, who patiently guided me through the basics for the first time.
-
+- And I'm also thankful to my teachers at the Digital Career Institute who patiently guided me through the basics for the first time, earlier this year.
