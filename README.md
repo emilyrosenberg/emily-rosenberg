@@ -109,7 +109,8 @@ The headings and the About page are intentionally informal and friendly, and my 
 
 ### Performance testing
 I used Chrome Developer Tools for troubleshooting functionality and style problems during development. After deploying, some issues were still unresolved. Trial and error, Googling - and patience! - were most helpful. This is how I learned the most. <br>
-I used the Lighthouse tool to test performance. ![Lighthosue report](assets/images/lighthouse-test.png)
+I used the Lighthouse tool to test performance in incognito mode, as suggested by my mentor. After making corrections to the meta description and the profile image size, these were the results on mobile: ![Lighthouse report for mobile landing page](assets/images/lighthouse-mobile-1.png) ![Lighthouse report for mobile About page](assets/images/lighthouse-mobile-2.png) ![Lighthouse report for mobile Contact page](assets/images/lighthouse-mobile-3.png) <br>
+And on desktop:![Lighthouse report for desktop landing page](assets/images/lighthouse-desktop-1.png) ![Lighthouse report for desktop About page](assets/images/lighthouse-desktop-2.png) ![Lighthouse report for desktop Contact page](assets/images/lighthouse-desktop-3.png)
 
 ### Code validation
 - HTML <br> I validated the HTML code with W3C and found 2 errors in the meta description. The typos were easily corrected.
@@ -117,7 +118,7 @@ I used the Lighthouse tool to test performance. ![Lighthosue report](assets/imag
 - CSS <br> I validated the CSS code with (Jigsaw) validator and found 1 error in the margin of the name styles in the header. I decided that this style wasn't working anyway, and deleted the line.
 
 ## Deployment
-This website was deployed to GitHub pages <br>
+This website was deployed to GitHub pages. <br>
 I tested the deployed website in Chrome and Safari. The live link can be found [here](https://emilyrosenberg.github.io/emily-rosenberg/index.html).
 
 

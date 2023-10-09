@@ -163,7 +163,6 @@ main {
 
 /* For this contact form, I used code from the Love Running Walkthrough Project */
 /* Contact page */
-
 #contact {
     text-align: center;
 }
@@ -235,7 +234,6 @@ input, textarea {
 }
 
 /* Success page */
-
 #success {
     text-align: center;
     display: inline-block;
@@ -248,7 +246,6 @@ input, textarea {
 
 #success p {
     padding-bottom: 50px;
-
 }
 
 #success a {
@@ -256,8 +253,7 @@ input, textarea {
     color: #f21860;
 }
 
-/* 404 page */
-
+/* 404 error page */
 #error {
     text-align: center;
     display: inline-block;
@@ -270,7 +266,6 @@ input, textarea {
 
 #error p {
     padding-bottom: 50px;
-
 }
 
 #error a {
