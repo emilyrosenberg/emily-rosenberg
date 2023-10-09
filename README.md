@@ -82,10 +82,9 @@ Gitpod <br>
 ## Testing
 
 ### Functionality testing
-I used…
 
 ### Compatibility testing
-The website was tested in Chrome developer tools and the following devices:
+The deployed website was tested throughout the building process with Chrome Devtools, on Chrome and Safari, on the following devices:
 <br>
 iPhone 12 Mini <br>
 Macbook Air
@@ -118,13 +117,14 @@ And on desktop:![Lighthouse report for desktop landing page](assets/images/light
 - CSS <br> I validated the CSS code with (Jigsaw) validator and found 1 error in the margin of the name styles in the header. I decided that this style wasn't working anyway, and deleted the line.
 
 ## Deployment
-This website was deployed to GitHub pages. <br>
-I tested the deployed website in Chrome and Safari. The live link can be found [here](https://emilyrosenberg.github.io/emily-rosenberg/index.html).
+This website was deployed on GitHub pages. <br>
+The live link can be found [here](https://emilyrosenberg.github.io/emily-rosenberg/index.html).
 
 
 ## Credits
 - I used code from the Love Running Walkthrough Project extensively to outline this project. As the project progressed, I was able to replace much of the original code with my own code. The structure and styling of several areas, including the navigation bar and the contact form, remain very close or identical to code from the walkthrough project. <br>
 - I was able to solve problems with help from Stack Overflow, FreeCodeCamp, and MakeUseOf. <br>
+- I used [this readme](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md#annies-portfolio-website) as a framework for writing my readme.
 - I would like to thank my Code Institute mentor, Adegbenga Adeye, for reassurance, support, and extra resources. <br>
 - Thanks to my Cohort Facilitator, David Calikes, for advice about how to create an MVP on the "fast track." <br>
 - And I'm also thankful to my teachers at the Digital Career Institute who patiently guided me through the basics for the first time, earlier this year.
