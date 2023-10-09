@@ -258,6 +258,26 @@ input, textarea {
 
 /* 404 page */
 
+#error {
+    text-align: center;
+    display: inline-block;
+}
+
+#error h2 {
+    margin: 30px 20px 20px;
+    color: #f21860;
+}
+
+#error p {
+    padding-bottom: 50px;
+
+}
+
+#error a {
+    text-decoration: none;
+    color: #f21860;
+}
+
 /* Footer */
 footer {
  /* Fixed to bottom of screen with suggestion from freeCodeCamp */
