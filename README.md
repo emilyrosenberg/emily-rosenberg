@@ -1,7 +1,7 @@
 # ✏️ Emily Rosenberg
 A career website to share with potential employers
 
-![Mockup on different devices created with Techsini.](assets/images/mockup.png)
+![Mockup on different devices, created with Techsini.](assets/images/readme-images/mockup.png)
 
 ## UX
 ### Website owner goals
@@ -31,12 +31,12 @@ This website is designed to provide necessary information quickly and clearly on
 ### Surface
 Colors <br>
 I developed a color palette using Coolors. I started out with a softer palette but then the background image I found inspired the choice of hot pink. The strong, eye-catching color, grounded by soft dark brown, is a good representation of my personal brand. <br>
-![Color palette with dark brown, light pink, and hot pink](assets/images/color-palette.png) <br>
+![Color palette with dark brown, light pink, and hot pink](assets/images/readme-images/color-palette.png) <br>
 [Coolors](https://coolors.co/494244-fff6f9-fbb1ca-f21860)
 
 Fonts <br>
 I used Google Fonts and chose a rounded, modern sans serif font that is easy to read. <br>
-![Nunito font from Google Fonts](assets/images/nunito-font.png)<br>
+![Nunito font from Google Fonts](assets/images/readme-images/nunito-font.png)<br>
 [Google Fonts](https://fonts.google.com/specimen/Nunito?stroke=Sans+Serif&sort=popularity)
 
 Images <br>
@@ -48,6 +48,10 @@ Profile image credit: Olivia Woodrow
 
 ## Features
 The website has 3 pages, all accessible from the navigation bar. Home is an intro page, About has a few facts about me and my experience and a link to my CV, and Contact has a form to send a message. In addition, submitting the Contact form leads the user to a Success page to let them know their message has been sent, and there is also a 404 error page.
+
+### Wireframes
+This is the design of the landing page, which was used as a basis for the other pages: <br>
+![Wireframe of landing page](assets/images/readme-images/wireframe.png)
 
 ### Navigation bar
 The navigation bar is visible in the header fixed to the top of each page. It is responsive and on mobile it shows as a toggle with a dropdown menu; on desktop the menu items are in the header.
@@ -67,8 +71,8 @@ The contact page has links to my LinkedIn and Github plus a simple form for ente
 The footer appears on all pages. It has links to LinkedIn, Github, and the Contact page.
 
 ### Favicon
-I used a pencil emoji as a favicon, building a connection to my landing page background image. <br>
-[Pencil emoji favicon](https://favicon.io/emoji-favicons/pencil)
+I used a [pencil emoji](https://favicon.io/emoji-favicons/pencil) as a favicon, building a connection to my landing page background image. <br>
+
 
 ### Future implementations
 
@@ -115,8 +119,8 @@ The headings and the About page are intentionally informal and friendly, and my 
 
 ### Performance testing
 I used Chrome Developer Tools for troubleshooting functionality and style problems during development. After deploying, some issues were still unresolved. Trial and error, Googling - and patience! - were most helpful. This is how I learned the most. <br>
-I used the Lighthouse tool to test performance in incognito mode, as suggested by my mentor. After making corrections to the meta description and the profile image size, these were the results on mobile: ![Lighthouse report for mobile landing page](assets/images/lighthouse-mobile-1.png) ![Lighthouse report for mobile About page](assets/images/lighthouse-mobile-2.png) ![Lighthouse report for mobile Contact page](assets/images/lighthouse-mobile-3.png) <br>
-And on desktop:![Lighthouse report for desktop landing page](assets/images/lighthouse-desktop-1.png) ![Lighthouse report for desktop About page](assets/images/lighthouse-desktop-2.png) ![Lighthouse report for desktop Contact page](assets/images/lighthouse-desktop-3.png)
+I used the Lighthouse tool to test performance in incognito mode, as suggested by my mentor. After making corrections to the meta description and the profile image size, these were the results on mobile: ![Lighthouse report for mobile landing page](assets/images/readme-images/lighthouse-mobile-1.png) ![Lighthouse report for mobile About page](assets/images/readme-images/lighthouse-mobile-2.png) ![Lighthouse report for mobile Contact page](assets/images/readme-images/lighthouse-mobile-3.png) <br>
+And on desktop:![Lighthouse report for desktop landing page](assets/images/readme-images/lighthouse-desktop-1.png) ![Lighthouse report for desktop About page](assets/images/readme-images/lighthouse-desktop-2.png) ![Lighthouse report for desktop Contact page](assets/images/readme-images/lighthouse-desktop-3.png)
 
 ### Code validation
 - HTML <br> I validated the HTML code with W3C and found 2 errors in the meta description. The typos were easily corrected.
@@ -130,11 +134,13 @@ The live link can be found [here](https://emilyrosenberg.github.io/emily-rosenbe
 ## Screenshots
 
 ### During development
-I added intitial html and styles in a different color scheme, but after I found a meaningful background image, I updated the colors. This was the initial style: ![Initial muted colors](assets/images/initial-colors.png) <br>
-Initially, the footer was at the bottom of the content, as in the Love Running Project. I wanted it to be visible all the time, so that the user could always see the contact options. This was the previous design: ![Scroll to footer](assets/images/footer-hidden.png) <br>
-The text was left-justified, and I was not happy with the way it looked on larger screens. My mentor suggested centering it. This was the original style: ![Scroll to footer](assets/images/left-justified-text.png)
+I added intitial html and styles in a different color scheme, but after I found a meaningful background image, I updated the colors. This was the initial style: ![Initial muted colors](assets/images/readme-images/initial-colors.png) <br>
+Initially, the footer was at the bottom of the content, as in the Love Running Project. I wanted it to be visible all the time, so that the user could always see the contact options. This was the previous design: ![Scroll to footer](assets/images/readme-images/footer-hidden.png) <br>
+The text was left-justified, and I was not happy with the way it looked on larger screens. My mentor suggested centering it. This was the original style: ![Scroll to footer](assets/images/readme-images/left-justified-text.png)
 
 ### Finished site
+These are screenshots of the finished site: <br>
+![Index](assets/images/readme-images/screenshot-index.png) ![Index](assets/images/readme-images/screenshot-about.png) ![Index](assets/images/readme-images/screenshot-about-2.png) ![Index](assets/images/readme-images/screenshot-contact.png) ![Index](assets/images/readme-images/screenshot-contact-2.png) ![Index](assets/images/readme-images/screenshot-success.png) ![Index](assets/images/readme-images/screenshot-error.png)
 
 
 ## Credits
