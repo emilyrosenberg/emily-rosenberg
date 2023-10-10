@@ -1,6 +1,8 @@
 # ✏️ Emily Rosenberg
 A career website to share with potential employers
 
+![Mockup on different devices created with Techsini.](assets/images/mockup.png)
+
 ## UX
 ### Website owner goals
 The purpose of this website is to present myself to potential employers as a junior web developer. It will showcase skills, past achievements, and my career path, and provide an easy way to contact me. It can be updated with new information as necessary.
@@ -38,12 +40,14 @@ I used Google Fonts and chose a rounded, modern sans serif font that is easy to 
 [Google Fonts](https://fonts.google.com/specimen/Nunito?stroke=Sans+Serif&sort=popularity)
 
 Images <br>
-I used Unsplash to find and download the main background image. The colorful pencils are playful, and represent a toolbox of options and a tactile approach. Credit: Jess Bailey.<br>
+I used Unsplash to find and download the main background image. The colorful pencils are playful, and represent a toolbox of options and a tactile approach. Background image credit: Jess Bailey.<br>
 ![Background image of colored pencils.](assets/images/hero-background.jpg) <br>
+
+I used a profile image of myself on the About page. This is the same profile photo I use on all other professional platforms. <br>
 Profile image credit: Olivia Woodrow
 
 ## Features
-The website has 3 pages, all accessible from the navigation bar. Home is an intro page, About has a few facts about me and my experience and a link to my CV, and Contact has a form to send a message.
+The website has 3 pages, all accessible from the navigation bar. Home is an intro page, About has a few facts about me and my experience and a link to my CV, and Contact has a form to send a message. In addition, submitting the Contact form leads the user to a Success page to let them know their message has been sent, and there is also a 404 error page.
 
 ### Navigation bar
 The navigation bar is visible in the header fixed to the top of each page. It is responsive and on mobile it shows as a toggle with a dropdown menu; on desktop the menu items are in the header.
@@ -57,7 +61,7 @@ The landing page has a colorful image and large text, to invite potential employ
 The about page includes professional experience including my future graduation date from Code Institute, a few fun facts, and a profile image. It can be updated with additional qualifications in the future.
 
 ### Contact page
-The contact page has links to my LinkedIn and Github plus a simple form for entering contact information and sending a message.
+The contact page has links to my LinkedIn and Github plus a simple form for entering contact information and sending a message. When a user submits the form, they will see a Success page.
 
 ### Footer
 The footer appears on all pages. It has links to LinkedIn, Github, and the Contact page.
@@ -67,8 +71,10 @@ I used a pencil emoji as a favicon, building a connection to my landing page bac
 [Pencil emoji favicon](https://favicon.io/emoji-favicons/pencil)
 
 ### Future implementations
-Portfolio gallery <br>
-Project links
+
+In the future this website can be updated with further qualifications and project links. For instance: <br>
+- Portfolio gallery <br>
+- Project links
 
 ### Technologies used:
 HTML 5 as a structure language <br>
@@ -82,9 +88,10 @@ Gitpod <br>
 ## Testing
 
 ### Functionality testing
+The deployed website was tested throughout the building process with Chrome Devtools.
 
 ### Compatibility testing
-The deployed website was tested throughout the building process with Chrome Devtools, on Chrome and Safari, on the following devices:
+The website was tested in Chrome and Safari, on the following devices:
 <br>
 iPhone 12 Mini <br>
 Macbook Air
@@ -124,7 +131,7 @@ The live link can be found [here](https://emilyrosenberg.github.io/emily-rosenbe
 ## Credits
 - I used code from the Love Running Walkthrough Project extensively to outline this project. As the project progressed, I was able to replace much of the original code with my own code. The structure and styling of several areas, including the navigation bar and the contact form, remain very close or identical to code from the walkthrough project. <br>
 - I was able to solve problems with help from Stack Overflow, FreeCodeCamp, and MakeUseOf. <br>
-- I used [this readme](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md#annies-portfolio-website) as a framework for writing my readme.
+- I used [this readme](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md#annies-portfolio-website) by Annie O'Donahoe as a framework for writing my readme.
 - I would like to thank my Code Institute mentor, Adegbenga Adeye, for reassurance, support, and extra resources. <br>
 - Thanks to my Cohort Facilitator, David Calikes, for advice about how to create an MVP on the "fast track." <br>
 - And I'm also thankful to my teachers at the Digital Career Institute who patiently guided me through the basics for the first time, earlier this year.
