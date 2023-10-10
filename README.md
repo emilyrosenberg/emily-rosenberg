@@ -30,17 +30,15 @@ This website is designed to provide necessary information quickly and clearly on
 
 ### Surface
 Colors <br>
-I developed a color palette using Coolors. I started out with a softer palette but then the background image I found inspired the choice of hot pink. The strong, eye-catching color, grounded by soft dark brown, is a good representation of my personal brand. <br>
-![Color palette with dark brown, light pink, and hot pink](assets/images/readme-images/color-palette.png) <br>
-[Coolors](https://coolors.co/494244-fff6f9-fbb1ca-f21860)
+I developed a color palette using [Coolors](https://coolors.co/494244-fff6f9-fbb1ca-f21860). I started out with a softer palette but then the background image I found inspired the choice of hot pink. The strong, eye-catching color, grounded by soft dark brown, is a good representation of my personal brand. <br>
+![Color palette with dark brown, light pink, and hot pink](assets/images/readme-images/color-palette.png)
 
 Fonts <br>
-I used Google Fonts and chose a rounded, modern sans serif font that is easy to read. <br>
-![Nunito font from Google Fonts](assets/images/readme-images/nunito-font.png)<br>
-[Google Fonts](https://fonts.google.com/specimen/Nunito?stroke=Sans+Serif&sort=popularity)
+I used [Google Fonts](https://fonts.google.com/specimen/Nunito?stroke=Sans+Serif&sort=popularity) and chose a rounded, modern sans serif font that is easy to read. <br>
+![Nunito font from Google Fonts](assets/images/readme-images/nunito-font.png)
 
 Images <br>
-I used Unsplash to find and download the main background image. The colorful pencils are playful, and represent a toolbox of options and a tactile approach. Background image credit: Jess Bailey.<br>
+I used Unsplash to find and download the main background image. The colorful pencils are playful, and represent a toolbox of options and a tactile approach. <br> Background image credit: Jess Bailey.<br>
 ![Background image of colored pencils.](assets/images/hero-background.jpg) <br>
 
 I used a profile image of myself on the About page. This is the same profile photo I use on all other professional platforms. <br>
@@ -124,9 +122,9 @@ I used the Lighthouse tool to test performance in incognito mode, as suggested b
 And on desktop:![Lighthouse report for desktop landing page](assets/images/readme-images/lighthouse-desktop-1.png) ![Lighthouse report for desktop About page](assets/images/readme-images/lighthouse-desktop-2.png) ![Lighthouse report for desktop Contact page](assets/images/readme-images/lighthouse-desktop-3.png)
 
 ### Code validation
-- HTML <br> I validated the HTML code with W3C and found 2 errors in the meta description. The typos were easily corrected.
+- HTML <br> I validated the HTML code with W3C and found 2 errors in the meta description. The typos were easily corrected. The finished version has no errors.
 
-- CSS <br> I validated the CSS code with (Jigsaw) validator and found 1 error in the margin of the name styles in the header. I decided that this style wasn't working anyway, and deleted the line.
+- CSS <br> I validated the CSS code with (Jigsaw) validator and found 1 error in the margin of the name styles in the header. I decided that this style wasn't working anyway, and deleted the line. The finished version has no errors.
 
 ## Deployment
 This website was deployed on GitHub pages. <br>
@@ -141,11 +139,11 @@ The text was left-justified, and I was not happy with the way it looked on large
 
 ### Finished site
 These are screenshots of the finished site: <br>
-![Index](assets/images/readme-images/screenshot-index.png) ![Index](assets/images/readme-images/screenshot-about.png) ![Index](assets/images/readme-images/screenshot-about-2.png) ![Index](assets/images/readme-images/screenshot-contact.png) ![Index](assets/images/readme-images/screenshot-contact-2.png) ![Index](assets/images/readme-images/screenshot-success.png) ![Index](assets/images/readme-images/screenshot-error.png)
+![Index](assets/images/readme-images/screenshot-index.png) ![Index](assets/images/readme-images/screenshot-about.png) ![Index](assets/images/readme-images/screenshot-about-2.png) ![Index](assets/images/readme-images/screenshot-about-3.png) ![Index](assets/images/readme-images/screenshot-contact.png) ![Index](assets/images/readme-images/screenshot-contact-2.png) ![Index](assets/images/readme-images/screenshot-success.png) ![Index](assets/images/readme-images/screenshot-error.png)
 
 
 ## Credits
-- I used code from the Love Running Walkthrough Project extensively to outline this project. As the project progressed, I was able to replace much of the original code with my own code. The structure and styling of several areas, including the navigation bar and the contact form, remain very close or identical to code from the walkthrough project. <br>
+- I used code from the Love Running Walkthrough Project extensively to outline this project. As the project progressed, I was able to replace much of that code with my own code. The structure and styling of several areas, including the navigation bar and the contact form, remain very close or identical to code from the walkthrough project. <br>
 - I was able to solve problems with help from Stack Overflow, FreeCodeCamp, and MakeUseOf. <br>
 - I used [this readme](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md#annies-portfolio-website) by Annie O'Donahoe as a framework for writing my readme.
 - I would like to thank my Code Institute mentor, Adegbenga Adeye, for reassurance, support, and extra resources. <br>
