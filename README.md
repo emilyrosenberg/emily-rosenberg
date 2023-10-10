@@ -143,7 +143,7 @@ These are screenshots of the finished site: <br>
 
 
 ## Credits
-- I used code from the Love Running Walkthrough Project extensively to outline this project. As the project progressed, I was able to replace much of that code with my own code. The structure and styling of several areas, including the navigation bar and the contact form, remain very close or identical to code from the walkthrough project. <br>
+- I used code from the Love Running Walkthrough Project extensively to outline this project. As the project progressed, I was able to replace much of that code with my own code. The structure and styling of several areas, including the navigation bar and the contact form, remain very close or identical to code from the walkthrough project. These are credited more specifically in the style sheet. <br>
 - I was able to solve problems with help from Stack Overflow, FreeCodeCamp, and MakeUseOf. <br>
 - I used [this readme](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md#annies-portfolio-website) by Annie O'Donahoe as a framework for writing my readme.
 - I would like to thank my Code Institute mentor, Adegbenga Adeye, for reassurance, support, and extra resources. <br>
