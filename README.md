@@ -127,6 +127,15 @@ And on desktop:![Lighthouse report for desktop landing page](assets/images/light
 This website was deployed on GitHub pages. <br>
 The live link can be found [here](https://emilyrosenberg.github.io/emily-rosenberg/index.html).
 
+## Screenshots
+
+### During development
+I added intitial html and styles in a different color scheme, but after I found a meaningful background image, I updated the colors. This was the initial style: ![Initial muted colors](assets/images/initial-colors.png) <br>
+Initially, the footer was at the bottom of the content, as in the Love Running Project. I wanted it to be visible all the time, so that the user could always see the contact options. This was the previous design: ![Scroll to footer](assets/images/footer-hidden.png) <br>
+The text was left-justified, and I was not happy with the way it looked on larger screens. My mentor suggested centering it. This was the original style: ![Scroll to footer](assets/images/left-justified-text.png)
+
+### Finished site
+
 
 ## Credits
 - I used code from the Love Running Walkthrough Project extensively to outline this project. As the project progressed, I was able to replace much of the original code with my own code. The structure and styling of several areas, including the navigation bar and the contact form, remain very close or identical to code from the walkthrough project. <br>
