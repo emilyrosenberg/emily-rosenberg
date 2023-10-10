@@ -13,7 +13,7 @@ New user goals:
 - User is able to contact me easily using a contact form.
 
 Returning user goals:
-- User is able to find out about my recent projects and qualifications.
+- User is able to find out about my recent projects and new qualifications.
 
 ### User stories
 As a job-seeking junior web developer:
@@ -50,7 +50,7 @@ Profile image credit: Olivia Woodrow
 The website has 3 pages, all accessible from the navigation bar. Home is an intro page, About has a few facts about me and my experience and a link to my CV, and Contact has a form to send a message. In addition, submitting the Contact form leads the user to a Success page to let them know their message has been sent, and there is also a 404 error page.
 
 ### Wireframes
-This is the design of the landing page, which was used as a basis for the other pages: <br>
+I used Balsamiq to create a wireframe. This is the design of the landing page, which was used as a basis for the other pages: <br>
 ![Wireframe of landing page](assets/images/readme-images/wireframe.png)
 
 ### Navigation bar
@@ -65,10 +65,10 @@ The landing page has a colorful image and large text, to invite potential employ
 The about page includes professional experience including my future graduation date from Code Institute, a few fun facts, and a profile image. It can be updated with additional qualifications in the future.
 
 ### Contact page
-The contact page has links to my LinkedIn and Github plus a simple form for entering contact information and sending a message. When a user submits the form, they will see a Success page.
+The contact page has links to my LinkedIn and GitHub plus a simple form for entering contact information and sending a message. When a user submits the form, they will see a Success page.
 
 ### Footer
-The footer appears on all pages. It has links to LinkedIn, Github, and the Contact page.
+The footer appears on all pages. It has links to LinkedIn, GitHub, and the Contact page.
 
 ### Favicon
 I used a [pencil emoji](https://favicon.io/emoji-favicons/pencil) as a favicon, building a connection to my landing page background image. <br>
@@ -85,6 +85,7 @@ HTML 5 as a structure language <br>
 CSS as a style language <br>
 Font Awesome <br>
 Google Fonts <br>
+Balsamiq for wireframes <br>
 GitHub <br>
 Git <br>
 Gitpod <br>
